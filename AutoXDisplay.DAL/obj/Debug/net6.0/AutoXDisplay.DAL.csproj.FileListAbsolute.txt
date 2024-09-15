@@ -1,0 +1,12 @@
+C:\Users\tfor010322\OneDrive - RADIO SYSTEMS CORPORATION\Desktop\autocross-visualizer-develop\AutoXDisplay.DAL\bin\Debug\net6.0\AutoXDisplay.DAL.deps.json
+C:\Users\tfor010322\OneDrive - RADIO SYSTEMS CORPORATION\Desktop\autocross-visualizer-develop\AutoXDisplay.DAL\bin\Debug\net6.0\AutoXDisplay.DAL.dll
+C:\Users\tfor010322\OneDrive - RADIO SYSTEMS CORPORATION\Desktop\autocross-visualizer-develop\AutoXDisplay.DAL\bin\Debug\net6.0\AutoXDisplay.DAL.pdb
+C:\Users\tfor010322\OneDrive - RADIO SYSTEMS CORPORATION\Desktop\autocross-visualizer-develop\AutoXDisplay.DAL\obj\Debug\net6.0\AutoXDisplay.DAL.csproj.AssemblyReference.cache
+C:\Users\tfor010322\OneDrive - RADIO SYSTEMS CORPORATION\Desktop\autocross-visualizer-develop\AutoXDisplay.DAL\obj\Debug\net6.0\AutoXDisplay.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tfor010322\OneDrive - RADIO SYSTEMS CORPORATION\Desktop\autocross-visualizer-develop\AutoXDisplay.DAL\obj\Debug\net6.0\AutoXDisplay.DAL.AssemblyInfoInputs.cache
+C:\Users\tfor010322\OneDrive - RADIO SYSTEMS CORPORATION\Desktop\autocross-visualizer-develop\AutoXDisplay.DAL\obj\Debug\net6.0\AutoXDisplay.DAL.AssemblyInfo.cs
+C:\Users\tfor010322\OneDrive - RADIO SYSTEMS CORPORATION\Desktop\autocross-visualizer-develop\AutoXDisplay.DAL\obj\Debug\net6.0\AutoXDisplay.DAL.csproj.CoreCompileInputs.cache
+C:\Users\tfor010322\OneDrive - RADIO SYSTEMS CORPORATION\Desktop\autocross-visualizer-develop\AutoXDisplay.DAL\obj\Debug\net6.0\AutoXDisplay.DAL.dll
+C:\Users\tfor010322\OneDrive - RADIO SYSTEMS CORPORATION\Desktop\autocross-visualizer-develop\AutoXDisplay.DAL\obj\Debug\net6.0\refint\AutoXDisplay.DAL.dll
+C:\Users\tfor010322\OneDrive - RADIO SYSTEMS CORPORATION\Desktop\autocross-visualizer-develop\AutoXDisplay.DAL\obj\Debug\net6.0\AutoXDisplay.DAL.pdb
+C:\Users\tfor010322\OneDrive - RADIO SYSTEMS CORPORATION\Desktop\autocross-visualizer-develop\AutoXDisplay.DAL\obj\Debug\net6.0\ref\AutoXDisplay.DAL.dll

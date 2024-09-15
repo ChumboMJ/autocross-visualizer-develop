@@ -1,0 +1,61 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ApexDataVisualizer
+build_property.RootNamespace = ApexDataVisualizer
+build_property.ProjectDir = C:\Users\tfor010322\OneDrive - RADIO SYSTEMS CORPORATION\Desktop\autocross-visualizer-develop\ApexDataVisualizer\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\tfor010322\OneDrive - RADIO SYSTEMS CORPORATION\Desktop\autocross-visualizer-develop\ApexDataVisualizer
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/tfor010322/OneDrive - RADIO SYSTEMS CORPORATION/Desktop/autocross-visualizer-develop/ApexDataVisualizer/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tfor010322/OneDrive - RADIO SYSTEMS CORPORATION/Desktop/autocross-visualizer-develop/ApexDataVisualizer/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tfor010322/OneDrive - RADIO SYSTEMS CORPORATION/Desktop/autocross-visualizer-develop/ApexDataVisualizer/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tfor010322/OneDrive - RADIO SYSTEMS CORPORATION/Desktop/autocross-visualizer-develop/ApexDataVisualizer/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tfor010322/OneDrive - RADIO SYSTEMS CORPORATION/Desktop/autocross-visualizer-develop/ApexDataVisualizer/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tfor010322/OneDrive - RADIO SYSTEMS CORPORATION/Desktop/autocross-visualizer-develop/ApexDataVisualizer/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tfor010322/OneDrive - RADIO SYSTEMS CORPORATION/Desktop/autocross-visualizer-develop/ApexDataVisualizer/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-e7p01g5ds1
+
+[C:/Users/tfor010322/OneDrive - RADIO SYSTEMS CORPORATION/Desktop/autocross-visualizer-develop/ApexDataVisualizer/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-sc6wszqspk
+
+[C:/Users/tfor010322/OneDrive - RADIO SYSTEMS CORPORATION/Desktop/autocross-visualizer-develop/ApexDataVisualizer/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tfor010322/OneDrive - RADIO SYSTEMS CORPORATION/Desktop/autocross-visualizer-develop/ApexDataVisualizer/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tfor010322/OneDrive - RADIO SYSTEMS CORPORATION/Desktop/autocross-visualizer-develop/ApexDataVisualizer/Pages/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

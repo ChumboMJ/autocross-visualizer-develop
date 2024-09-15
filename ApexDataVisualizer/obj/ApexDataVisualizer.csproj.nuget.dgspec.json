@@ -1,0 +1,86 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\tfor010322\\OneDrive - RADIO SYSTEMS CORPORATION\\Desktop\\autocross-visualizer-develop\\ApexDataVisualizer\\ApexDataVisualizer.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\tfor010322\\OneDrive - RADIO SYSTEMS CORPORATION\\Desktop\\autocross-visualizer-develop\\ApexDataVisualizer\\ApexDataVisualizer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tfor010322\\OneDrive - RADIO SYSTEMS CORPORATION\\Desktop\\autocross-visualizer-develop\\ApexDataVisualizer\\ApexDataVisualizer.csproj",
+        "projectName": "ApexDataVisualizer",
+        "projectPath": "C:\\Users\\tfor010322\\OneDrive - RADIO SYSTEMS CORPORATION\\Desktop\\autocross-visualizer-develop\\ApexDataVisualizer\\ApexDataVisualizer.csproj",
+        "packagesPath": "C:\\Users\\tfor010322\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tfor010322\\OneDrive - RADIO SYSTEMS CORPORATION\\Desktop\\autocross-visualizer-develop\\ApexDataVisualizer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tfor010322\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/rsccorp/a25843c5-1d16-4c2a-b9cd-4f6d1bd96d91/_packaging/rsc-nuget/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.31, 6.0.31]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.410\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

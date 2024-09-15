@@ -1,0 +1,6 @@
+C:\Users\tfor010322\OneDrive - RADIO SYSTEMS CORPORATION\Desktop\autocross-visualizer-develop\ApexVisualizer\obj\Debug\net7.0\ApexVisualizer.csproj.AssemblyReference.cache
+C:\Users\tfor010322\OneDrive - RADIO SYSTEMS CORPORATION\Desktop\autocross-visualizer-develop\ApexVisualizer\obj\Debug\net7.0\ApexVisualizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tfor010322\OneDrive - RADIO SYSTEMS CORPORATION\Desktop\autocross-visualizer-develop\ApexVisualizer\obj\Debug\net7.0\ApexVisualizer.AssemblyInfoInputs.cache
+C:\Users\tfor010322\OneDrive - RADIO SYSTEMS CORPORATION\Desktop\autocross-visualizer-develop\ApexVisualizer\obj\Debug\net7.0\ApexVisualizer.AssemblyInfo.cs
+C:\Users\tfor010322\OneDrive - RADIO SYSTEMS CORPORATION\Desktop\autocross-visualizer-develop\ApexVisualizer\obj\Debug\net7.0\ApexVisualizer.csproj.CoreCompileInputs.cache
+C:\Users\tfor010322\OneDrive - RADIO SYSTEMS CORPORATION\Desktop\autocross-visualizer-develop\ApexVisualizer\obj\Debug\net7.0\ApexVisualizer.MvcApplicationPartsAssemblyInfo.cache

@@ -1,0 +1,57 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AutoXDisplay.DAL/1.0.0": {
+        "dependencies": {
+          "CsvHelper": "30.0.1",
+          "HtmlAgilityPack": "1.11.52"
+        },
+        "runtime": {
+          "AutoXDisplay.DAL.dll": {}
+        }
+      },
+      "CsvHelper/30.0.1": {
+        "runtime": {
+          "lib/net6.0/CsvHelper.dll": {
+            "assemblyVersion": "30.0.0.0",
+            "fileVersion": "30.0.1.0"
+          }
+        }
+      },
+      "HtmlAgilityPack/1.11.52": {
+        "runtime": {
+          "lib/netstandard2.0/HtmlAgilityPack.dll": {
+            "assemblyVersion": "1.11.52.0",
+            "fileVersion": "1.11.52.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AutoXDisplay.DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CsvHelper/30.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rcZtgbWR+As4G3Vpgx0AMNmShGuQLFjkHAPIIflzrfkJCx8/AOd4m96ZRmiU1Wi39qS5UVjV0P8qdgqOo5Cwyg==",
+      "path": "csvhelper/30.0.1",
+      "hashPath": "csvhelper.30.0.1.nupkg.sha512"
+    },
+    "HtmlAgilityPack/1.11.52": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qfJzz0eEgoO5O6uA1PpH4wmU4yz64PKnDolAW41vTlCfRyPlAyZIJANg+QYmQgxiWg/cLUAkcLNMpB7CCV66ZQ==",
+      "path": "htmlagilitypack/1.11.52",
+      "hashPath": "htmlagilitypack.1.11.52.nupkg.sha512"
+    }
+  }
+}

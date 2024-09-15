@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2zKZvL0S6LJYlSL3+BzB9dlrcc29rHUHf2RoYqEKcXF/VXViW7lzXmI7ksj/z5KV3UTEbEIdrhW9+I0s3d84jg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tfor010322\\OneDrive - RADIO SYSTEMS CORPORATION\\Desktop\\autocross-visualizer-develop\\ApexVisualizer\\ApexVisualizer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tfor010322\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
+    "C:\\Users\\tfor010322\\.nuget\\packages\\htmlagilitypack\\1.11.52\\htmlagilitypack.1.11.52.nupkg.sha512"
+  ],
+  "logs": []
+}

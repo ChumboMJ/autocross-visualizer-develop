@@ -3,3 +3,78 @@
 ################################################################################
 
 /AutoXDisplay.Console/bin/Debug/net6.0
+
+# .NET Core
+bin/
+obj/
+
+# Visual Studio
+.vscode/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+Generated_Code/
+
+# Logs
+*.log
+
+# NPM packages
+node_modules/
+
+# Environment variables
+.env
+
+# Azure Functions local settings file
+local.settings.json
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Coverage
+coverage/
+*.coverage
+*.coveragexml
+*.codecov
+*.coverage.info
+TestResults/
+*.trx
+*.cobertura.xml
+
+# Others
+*.ncrunch*
+*.crunch.xml
+*.userprefs

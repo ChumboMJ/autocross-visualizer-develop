@@ -11,8 +11,9 @@ public class AutoXReader : IAutoXReader
         using var httpClient = new HttpClient();
         httpClient.Timeout = TimeSpan.FromMinutes(2);
         // Specify the URL
-        //var url = "https://www.wmclub.org/wp-content/uploads/2023/08/2023event6results.htm";
-        var url = "https://www.wmclub.org/wp-content/uploads/2023/03/2023event1results.htm"; //78Total
+        var url = "https://www.wmclub.org/wp-content/uploads/2024/06/summer-fun-062324_fin.htm"; //72Total
+        //var url = "https://www.wmclub.org/wp-content/uploads/2024/08/summer-heat-081824_fin.htm"; //82Total
+        //var url = "https://www.wmclub.org/wp-content/uploads/2023/03/2023event1results.htm"; //78Total
 
         HttpResponseMessage responseMessage = null;
         

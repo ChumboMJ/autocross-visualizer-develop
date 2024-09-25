@@ -5,11 +5,11 @@ VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoXDisplay.DAL", "AutoXDisplay.DAL\AutoXDisplay.DAL.csproj", "{DCC55C14-8ABC-4CA5-87F5-0E98D94AC4CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoXDisplay.Console", "AutoXDisplay.Console\AutoXDisplay.Console.csproj", "{25F52520-AABF-4BA0-AB04-BB026F0A0BC7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoXDisplay.Console", "AutoXDisplay.Console\AutoXDisplay.Console.csproj", "{25F52520-AABF-4BA0-AB04-BB026F0A0BC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApexDataVisualizer", "ApexDataVisualizer\ApexDataVisualizer.csproj", "{B295C66C-EA0C-496B-A2BD-0EDC76B2A290}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApexDataVisualizer", "ApexDataVisualizer\ApexDataVisualizer.csproj", "{B295C66C-EA0C-496B-A2BD-0EDC76B2A290}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApexDataVisualizer.Functions", "ApexDataVisualizer.Functions\ApexDataVisualizer.Functions.csproj", "{79A98D99-3924-4F1F-88DF-2AD7A1D8BC2B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApexDataVisualizer.Functions", "ApexDataVisualizer.Functions\ApexDataVisualizer.Functions.csproj", "{79A98D99-3924-4F1F-88DF-2AD7A1D8BC2B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
